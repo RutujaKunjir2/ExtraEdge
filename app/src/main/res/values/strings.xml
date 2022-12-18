@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ExtraaEdge</string>
+    <string name="desc">Desc</string>
+    <string name="home_title">SpaceX Rockets</string>
+    <string name="detail_title">Rocket Details</string>
+    <string name="action_nocon">No Internet Connection.</string>
+    <string name="title_no_connection">You are offline. Please connect to Internet.</string>
+
+</resources>

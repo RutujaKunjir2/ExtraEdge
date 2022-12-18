@@ -1,0 +1,29 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="_60sdp">60dp</dimen>
+    <dimen name="_120sdp">120dp</dimen>
+    <dimen name="_15sdp">15dp</dimen>
+    <dimen name="_26ssp">26dp</dimen>
+    <dimen name="_170sdp">170dp</dimen>
+    <dimen name="card_height">200dp</dimen>
+    <dimen name="card_margin">32dp</dimen>
+    <dimen name="_90sdp">90dp</dimen>
+    <dimen name="_10sdp">10dp</dimen>
+    <dimen name="_110sdp">110dp</dimen>
+    <dimen name="_30sdp">30dp</dimen>
+    <dimen name="_5sdp">5dp</dimen>
+    <dimen name="_7sdp">7dp</dimen>
+    <dimen name="_20sdp">20dp</dimen>
+    <dimen name="_55sdp">55dp</dimen>
+    <dimen name="_19ssp">19dp</dimen>
+    <dimen name="_16ssp">16dp</dimen>
+    <dimen name="_17ssp">17dp</dimen>
+    <dimen name="_12ssp">12dp</dimen>
+    <dimen name="_3sdp">3dp</dimen>
+    <dimen name="_1sdp">1dp</dimen>
+    <dimen name="_11ssp">11dp</dimen>
+    <dimen name="_40sdp">40dp</dimen>
+    <dimen name="_130sdp">130dp</dimen>
+    <dimen name="_2sdp">2dp</dimen>
+    <dimen name="_8ssp">8dp</dimen>
+</resources>
